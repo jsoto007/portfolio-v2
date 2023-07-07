@@ -7,7 +7,7 @@ export default function Home() {
       <ul>Hello</ul>
       <ul>Hello</ul>
       <ul>Hello</ul>
-      <ul>Hello</ul>
+      <ul>Hello word!!</ul>
     </div>
   )
 }
