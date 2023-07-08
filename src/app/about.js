@@ -1,11 +1,11 @@
 
 
-export default function Hero() {
+export default function About() {
 
   return (
-    <div className="backdrop-blur-xl bg-white/50 rounded-md">
+    <div className="backdrop-blur-xl bg-white/50 rounded-md font-sans">
     <div className="px-10 ml-40 ">
-
+  
       <h3 className="text-xl font-bold tracking-tight text-black sm:text-xl mt-6">
             About
             </h3>
