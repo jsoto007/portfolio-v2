@@ -1,13 +1,9 @@
-import Image from 'next/image'
+import Haeder from "./haeder"
 
 export default function Home() {
   return (
     <div>
-      <ul>Hello</ul>
-      <ul>Hello</ul>
-      <ul>Hello</ul>
-      <ul>Hello</ul>
-      <ul>Hello word!!</ul>
+      <Haeder />
     </div>
   )
 }
