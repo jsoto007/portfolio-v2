@@ -1,15 +1,11 @@
 'use client'
 
-import { useState } from 'react'
-
 export default function Haeder() {
-
-  // const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
   return (
     <div className="bg-white">
 
-      <div className="relative isolate px-6 pt-10 lg:px-8">
+      <div className="relative isolate px-6 pt-4 lg:px-8">
         <div
           className="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
           aria-hidden="true"
@@ -22,18 +18,17 @@ export default function Haeder() {
             }}
           />
         </div>
-        <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
-          <div className="text-left">
+        <div className="mx-auto max-w-2xl py-24 sm:py-48 lg:py-36 flex flex-row">
+          <div className="text-left -mx-60">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
               Jose Soto
             </h1>
-            <p className="mt-6 text-lg leading-8 text-gray-800">
-            Jose Soto is a skilled software engineer from Bronx, NY, specializing in 
-Ruby on Rails, JavaScript, and React. He enjoys creating user-centric 
-experiences and has completed impressive projects, including 
-“Supervise Hub” and “Expense Tracker.” Jose is dedicated 
-to delivering exceptional software solutions and 
-enjoys coffee in his spare time.
+            <h3 className="text-xl font-bold tracking-tight text-gray-900 sm:text-xl mt-6">
+            Full-Stack Software Engineer
+            </h3>
+            <p className="mt-3 text-lg leading-8 text-gray-800">
+            I love creating experiences that prioritize the user’s needs 
+            and make things more efficient.
             </p> 
           </div>
         </div>
