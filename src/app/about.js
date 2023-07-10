@@ -3,8 +3,10 @@
 export default function About() {
 
   return (
-    <div className="backdrop-blur-xl bg-white/60 font-sans py-1 ">
-    <div className="px-10 ml-40 ">
+    <div className="backdrop-blur-xl bg-white/60 font-sans py-1 rounded-xl animate-fade-left animate-once animate-delay-[1000ms] animate-ease-in">
+    <div 
+      className="px-10 ml-40"
+    >
   
       <h3 className="text-xl font-bold tracking-tight text-black sm:text-xl mt-6">
             About

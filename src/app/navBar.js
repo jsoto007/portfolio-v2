@@ -2,16 +2,17 @@
 
 export default function NavBar() {
   return (
-    <navabar className="ml-4 mr w-full max-w-7xl fixed top-3 z-10 backdrop-blur-xl bg-white/90 rounded-md py-3 pr-11 font-semibold">
-      <button class=" focus:outline-none  focus:bg-slate-300 mx-4 hover:bg-slate-200 rounded-md active:bg-slate-400 px-1">
-          Home
+    <navabar className="w-full max-w-[1550px] fixed z-10 backdrop-blur-md bg-slate-700/30 rounded-md py-2 pr-11 font-semibold">
+      <button class=" focus:outline-none  focus:bg-slate-200 mx-4 hover:bg-slate-100 rounded-md active:bg-slate-300 px-2 py-1">
+          HOME
       </button>
-      <button class=" focus:outline-none  focus:bg-slate-300 mx-4 hover:bg-slate-200 rounded-md active:bg-slate-400 px-1">
-          About
+      <button class=" focus:outline-none  focus:bg-slate-200 mx-4 hover:bg-slate-100 rounded-md active:bg-slate-300 px-2 py-1">
+          ABOUT
       </button>
-      <button class=" focus:outline-none  focus:bg-slate-300 mx-4 hover:bg-slate-200 rounded-md active:bg-slate-400 px-1">
-          Projects
+      <button class=" focus:outline-none  focus:bg-slate-200 mx-4 hover:bg-slate-100 rounded-md active:bg-slate-300 px-2 py-1">
+          PROJECTS
       </button>
+
     </navabar>
   )
 }
