@@ -28,8 +28,9 @@ export default function Projects() {
           </li>
         </ul>
       </div>
+      
     </div>
-    
+
     <div className="flex flex-row mt-16 font-sans">
      
       <div>
@@ -49,6 +50,9 @@ export default function Projects() {
           Thorough testing ensured a stable product with fixed bugs.
           </li>
         </ul>
+        <button className="ml-20 font-bold mt-3 mr-5">LEARN MORE</button>
+        <button className="font-bold mt-3 mr-5">Git Hub</button>
+        <button className="font-bold mt-3 mr-5">Video Demo</button>
       </div>
       <div className="rounded-xl ">
         <img 
