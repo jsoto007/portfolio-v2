@@ -10,8 +10,7 @@ export default function Home() {
       <Haeder />
       <About />
       <Projects />
-      <Projects />
-      <Projects />
+  
     </div>
   )
 }
