@@ -3,7 +3,7 @@
 export default function About() {
 
   return (
-    <div className="backdrop-blur-xl bg-white/50 rounded-md font-sans">
+    <div className="backdrop-blur-xl bg-white/60 rounded-md font-sans py-1 ">
     <div className="px-10 ml-40 ">
   
       <h3 className="text-xl font-bold tracking-tight text-black sm:text-xl mt-6">

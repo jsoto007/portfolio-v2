@@ -1,6 +1,7 @@
 import Haeder from "./haeder"
 import About from "./about"
 import NavBar from "./navBar"
+import Projects from "./projects"
 
 export default function Home() {
   return (
@@ -8,9 +9,9 @@ export default function Home() {
       <NavBar />
       <Haeder />
       <About />
-      <About />
-      <About />
-      <About />
+      <Projects />
+      <Projects />
+      <Projects />
     </div>
   )
 }
