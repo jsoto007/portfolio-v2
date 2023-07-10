@@ -8,7 +8,7 @@ export default function Projects() {
       <div className="rounded-xl ">
         <img 
           className="rounded-xl h-auto max-w-xl ml-20"
-          src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1" alt="project" />
+          src="https://images.pexels.com/photos/251225/pexels-photo-251225.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="project" />
       </div>
       <div>
         <h3 className="text-xl font-bold tracking-tight text-gray-900 sm:text-2xl mt-4 ml-20 mb-4 font-sans">
@@ -27,6 +27,9 @@ export default function Projects() {
           Thorough testing ensured a stable product with fixed bugs.
           </li>
         </ul>
+        <button className="ml-20 font-bold mt-3 mr-5">LEARN MORE</button>
+        <button className="font-bold mt-3 mr-5">Git Hub</button>
+        <button className="font-bold mt-3 mr-5">Video Demo</button>
       </div>
       
     </div>
@@ -57,14 +60,14 @@ export default function Projects() {
       <div className="rounded-xl ">
         <img 
           className="rounded-xl h-auto max-w-xl ml-60"
-          src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1" alt="project" />
+          src="https://images.pexels.com/photos/270669/pexels-photo-270669.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="project" />
       </div>
     </div>
     <div className="flex flex-row mt-16 font-sans">
       <div className="rounded-xl ">
         <img 
           className="rounded-xl h-auto max-w-xl ml-20"
-          src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1" alt="project" />
+          src="https://images.pexels.com/photos/374016/pexels-photo-374016.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="project" />
       </div>
       <div>
         <h3 className="text-xl font-bold tracking-tight text-gray-900 sm:text-2xl mt-4 ml-20 mb-4 font-sans">
@@ -83,6 +86,9 @@ export default function Projects() {
           Thorough testing ensured a stable product with fixed bugs.
           </li>
         </ul>
+        <button className="ml-20 font-bold mt-3 mr-5">LEARN MORE</button>
+        <button className="font-bold mt-3 mr-5">Git Hub</button>
+        <button className="font-bold mt-3 mr-5">Video Demo</button>
       </div>
     </div>
     
