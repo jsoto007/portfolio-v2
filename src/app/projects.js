@@ -4,7 +4,7 @@ export default function Projects() {
 
   return (
   <div>
-    <div className="flex flex-row mt-16 font-sans">
+    <div className="flex flex-row mt-16 font-sans" id="project">
       <div className="rounded-xl ">
         <img 
           className="rounded-xl h-auto max-w-xl ml-20"

@@ -3,7 +3,7 @@
 export default function Haeder() {
 
   return (
-    <div className="bg-white">
+    <div className="bg-white" id="home">
 
       <div className="relative isolate px-6 pt-4 lg:px-8">
         <div
