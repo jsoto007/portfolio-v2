@@ -1,6 +1,6 @@
 'use client'
 import {Link} from "react-scroll"
-import loco from "./loco.png"
+import loco from "../../public/loco.png"
 import Image from "next/image"
 
 export default function NavBar() {
