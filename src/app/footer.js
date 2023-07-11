@@ -3,7 +3,7 @@
 export default function Footer()  {
 
   return (
-    <div className="mt-16 bg-blue-950 rounded-lg pb-20" id="footer">
+    <div className="mt-16 bg-blue-950/90 rounded-lg pb-20" id="footer">
     <footer class="footer p-10 bg-neutral text-neutral-content">
   <div className="text-white font-sans text-xl">
     jsoto7087@gmail.com
