@@ -12,7 +12,6 @@ export default function Home() {
       <Haeder />
       <About />
       <Projects />
-      <hr className="my-10"/>
       <Footer />
     </div>
   )
