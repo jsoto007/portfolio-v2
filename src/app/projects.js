@@ -7,7 +7,7 @@ export default function Projects() {
     <div className="flex flex-row mt-16 font-sans" id="project">
       <div className="rounded-xl ">
         <img 
-          className="rounded-xl h-auto max-w-xl ml-20"
+          className="rounded-xl h-auto max-w-xl ml-20 shadow-lg"
           src="https://images.pexels.com/photos/251225/pexels-photo-251225.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="project" />
       </div>
       <div>
@@ -59,14 +59,14 @@ export default function Projects() {
       </div>
       <div className="rounded-xl ">
         <img 
-          className="rounded-xl h-auto max-w-xl ml-60"
+          className="rounded-xl h-auto max-w-xl ml-60 shadow-lg"
           src="https://images.pexels.com/photos/270669/pexels-photo-270669.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="project" />
       </div>
     </div>
     <div className="flex flex-row mt-16 font-sans">
       <div className="rounded-xl ">
         <img 
-          className="rounded-xl h-auto max-w-xl ml-20"
+          className="rounded-xl h-auto max-w-xl ml-20 shadow-lg"
           src="https://images.pexels.com/photos/374016/pexels-photo-374016.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="project" />
       </div>
       <div>
