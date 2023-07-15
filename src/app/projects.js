@@ -79,7 +79,6 @@ export default function Projects() {
         with their staff
         </h3>
         <ul className="ml-20">
-          
           <li>
           I encrypted and stored user information using JSON Web Tokens and localStorage. <br />
           Agile development and cross-functional teams improved the user experience. <br />
