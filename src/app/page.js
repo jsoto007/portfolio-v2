@@ -12,7 +12,8 @@ export default function Home() {
       <Haeder />
       <About />
       <Projects />
-      {/* <Footer /> */}
+      <hr className="mt-20" />
+      <Footer />
     </div>
   )
 }
