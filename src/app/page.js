@@ -12,7 +12,7 @@ export default function Home() {
       <Haeder />
       <About />
       <Projects />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   )
 }
