@@ -13,7 +13,7 @@ export default function Home() {
       <About />
       <Projects />
       <hr className="mt-20" />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   )
 }
