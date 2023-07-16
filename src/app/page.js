@@ -11,8 +11,8 @@ export default function Home() {
       <NavBar />
       <Haeder />
       <About />
-      <Projects />
-      <hr className="mt-20" />
+      {/* <Projects /> */}
+      {/* <hr className="mt-20" /> */}
       {/* <Footer /> */}
     </div>
   )

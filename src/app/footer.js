@@ -6,8 +6,8 @@ export default function Footer()  {
 
   return (
     <div class="grid gap-x-4 gap-y-2 grid-cols-5 mt-10 p-10 bg-slate-900/70 rounded-lg" id='footer'>
-      {/* <div> */}
-        {/* <ul className='ml-10'>
+      <div>
+        <ul className='ml-10'>
           <span className='text-white text-4xl'><IoIosMailUnread /></span>
           <li className='text-white text-xs'>jsoto7087@gmail.com</li>  
         </ul>
@@ -29,7 +29,7 @@ export default function Footer()  {
           <span className='text-white text-4xl '><AiFillInstagram /></span>
           <li className='text-white text-xs mt-1'>Instagram</li>  
         </ul>
-      </div> */}
+      </div>
     </div>
   )
 }
