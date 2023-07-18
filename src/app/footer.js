@@ -15,7 +15,7 @@ export default function Footer()  {
       <div>
         <ul>
           <span className='text-white text-3xl '><BsLinkedin /></span>
-          <li className='text-white text-xs mt-2'>Linked In</li>  
+          <li className='text-white text-xs mt-2'>LinkedIn</li>  
         </ul>
       </div>
       <div>

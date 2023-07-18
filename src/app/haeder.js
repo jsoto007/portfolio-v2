@@ -21,7 +21,7 @@ export default function Haeder() {
         <div className="mx-auto max-w-2xl py-24 sm:py-48 lg:py-36 flex flex-row">
           <div className="text-left">
             <h1 className="text-6xl font-bold tracking-tight text-blue-950 sm:text-8xl font-serif ">
-              Jose Soto
+              Jose J. Soto
             </h1>
             <h3 className="text-xl font-bold tracking-tight text-gray-900 sm:text-2xl mt-6 font-sans">
             Full-Stack Software Engineer
